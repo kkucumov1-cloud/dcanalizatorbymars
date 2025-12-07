@@ -1,0 +1,5 @@
+aiogram==3.3.0
+telethon==1.29.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+Pillow==10.0.1
